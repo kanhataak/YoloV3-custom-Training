@@ -1,2 +1,2 @@
 # YoloV3-custom-Training
-Yolov3 and Darknet training custom dataset
+Yolov3-Darknet training custom dataset
